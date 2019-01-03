@@ -1,0 +1,2 @@
+class MasterLookBackPhase < ApplicationRecord
+end
