@@ -19,7 +19,7 @@
 
     4. **ブラウザアクセス**
         ```
-        localhost:3000
+        localhost:7000
         ```
 
 * Version：
